@@ -28,8 +28,8 @@ h1 {
 }
 
 h2 {
-  background-color: #ffc000;
-  border-bottom: 5px solid #c90;
+  background-color: hsl(45, 100%, 50%);
+  border-bottom: 5px solid hsl(45, 100%, 40%);
   font-size: 1.1rem;
   margin-left: -0.5rem;
   margin-top: 0;
@@ -44,17 +44,17 @@ header {
 }
 
 main {
-  background-color: #999;
+  background-color: hsl(0, 0%, 60%);
   height: 100%;
   padding-top: 4rem;
 }
 
 header {
-  border-bottom: 5px solid #666;
+  border-bottom: 5px solid hsl(0, 0%, 40%);
 }
 
 strong {
-  color: #096;
+  color: hsl(160, 100%, 30%);
 }
 
 .max-width-wrapper {
@@ -67,7 +67,7 @@ strong {
 }
 
 .card {
-  background-color: white;
+  background-color: #fff;
   padding-block: 5px;
-  border-bottom: 5px solid #666;
+  border-bottom: 5px solid hsl(0, 0%, 40%);
 }
